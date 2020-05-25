@@ -1,6 +1,6 @@
 # Pong_Android
 
-Juego del clásico Pong realizado en Android.
+**Juego del clásico Pong realizado en Android.**
 
 He decidido subir este proyecto, porque tiene un poco casi de de todo:
  - Cámara.
