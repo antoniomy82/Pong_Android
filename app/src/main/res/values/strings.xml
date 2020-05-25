@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pong</string>
+    <!--Menú principal - activity_main -->
+    <string name="oneplayer">1 Jugador</string>
+    <string name="twoplayer">2 Jugadores</string>
+    <string name="settings">Opciones</string>
+    <string name="cambiarfondo">CAMBIAR FONDO - FOTO</string>
+    <string name="salir">SALIR</string>
+    <string name="logo">Logo de fondo</string>
+
+    <!--Submenú-->
+    <string name="sensores_text">SENSOR</string>
+    <string name="touch">Touch</string>
+    <string name="gravity">Gravity</string>
+
+    <string name="dificultad">DIFICULTAD</string>
+    <string name="facil">Facil</string>
+    <string name="media">Media</string>
+    <string name="dificil">Dificil</string>
+    <string name="partidas">PARTIDAS</string>
+    <string name="ok">OK</string>
+
+   <!--activity_camara-->
+    <string name="cancelar">Cancelar</string>
+
+   <!-- Alert Dialog-->
+    <string name="alert_no_gravity">Gravity no está disponible en este dispositivo. Se establece por defecto Touch </string>
+    <string name="alert_2p_gravity">Pala de ARRIBA CON TOUCH, Pala de ABAJO CON GRAVITY - Gravity por defecto hasta SALIR</string>
+    <string name="alert_atencion">¡ATENCIÓN!</string>
+    <string name="alert_btn_aceptar">ACEPTAR</string>
+
+</resources>
