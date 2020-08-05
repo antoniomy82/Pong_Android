@@ -29,4 +29,5 @@ Imagen de las pantallas de Jugadores, con imagen obtenida de la cámara de fotos
 <img src="https://raw.githubusercontent.com/antoniomy82/Pong_Android/master/capturas/02_Camera.png">
 </p>
 
+
 Espero que os guste y sirva de ayuda, un saludo!!
